@@ -1,2 +1,4 @@
 # test-repo
-Testing
+Testing.
+
+Testing Branch and Master in Git.
